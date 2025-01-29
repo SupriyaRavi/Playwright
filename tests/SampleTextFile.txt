@@ -1,0 +1,2 @@
+Scenario 1 : Verify the status of the trade placed 
+Scenario 2 : Verify the stock price of the trade 
