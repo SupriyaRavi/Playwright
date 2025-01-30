@@ -1,2 +1,7 @@
 Scenario 1 : Verify the status of the trade placed 
 Scenario 2 : Verify the stock price of the trade 
+
+
+
+Scenario 5 : Check if trade is settled or not 
+Scenario 6 : Check if the US markets are open
